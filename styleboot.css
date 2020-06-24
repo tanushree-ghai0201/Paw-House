@@ -47,7 +47,7 @@ html,body{
     border: 1px solid dodgerblue;
 }
 #j-text{
-    font-size:200%;
+    font-size:150%;
     text-shadow: 1px 1px 10px #000;
 
 }
@@ -230,4 +230,12 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
+
+
+
+
+
+
+
+
 
